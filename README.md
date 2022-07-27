@@ -10,5 +10,5 @@ const josueBenavides = {
   askMeAbout: [technologie, music, sports, etc.],
   challenge: "I'm try to understand the world of programming",
   funFacts: ['I'm learn little slow but i learn']
-}
+};
 
