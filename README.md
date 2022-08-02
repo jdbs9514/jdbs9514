@@ -12,6 +12,8 @@ const josueBenavides = {
   funFacts: ['I'm learn little slow but i learn']
 };
 
+return I'm avaible to work on many open source projects, just send me a message.
+
 ## 🌐socials:
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
