@@ -12,9 +12,8 @@ const josueBenavides = {
   challenge: "I'm try to understand the world of programming",
   funFacts: ['I'm learn little slow but i learn']
 };
-```
-
 return I'm avaible to work on many open source projects, just send me a message.
+```
 
 ## 🌐socials:
 
