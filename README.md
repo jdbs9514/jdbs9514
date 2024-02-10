@@ -26,7 +26,7 @@ return I'm avaible to work on many open source projects, just send me a message.
 
 ## 🏆 GitHub 
 
-![](https://github-profile-trophy.vercel.app/?username=andym80&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jdbs9514&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jdbs9514&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
